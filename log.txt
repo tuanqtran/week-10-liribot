@@ -1,41 +1,41 @@
 Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
 Published: Fri Sep 02 16:30:16 +0000 2016
 
-Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
-Published: Thu Sep 01 04:56:21 +0000 2016
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
 
 Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
 Published: Fri Aug 26 17:59:16 +0000 2016
 
-Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
-Published: Thu Sep 01 04:56:11 +0000 2016
-
 Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
 Published: Wed Aug 17 21:58:57 +0000 2016
 
-Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
-Published: Wed Aug 17 03:56:12 +0000 2016
-
-Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
-Published: Wed Aug 17 04:00:12 +0000 2016
-
-Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
-How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
-Published: Wed Aug 17 03:55:15 +0000 2016
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
 
 Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
 Published: Wed Aug 17 03:53:14 +0000 2016
 
-Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
-Published: Wed Aug 17 03:52:40 +0000 2016
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
 
 Tweet: RT @dekebridges: #ThursdayThoughts
 The difference between ordinary and extraordinary is that little extra.
 -Zig Ziglar https://t.co/TLXJxSM…
 Published: Sat Aug 13 02:42:20 +0000 2016
 
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
 Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
 Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
 
 Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
 Published: Mon Aug 08 18:15:00 +0000 2016
@@ -62,33 +62,23 @@ Tweet: This is so cool! Check out this amazing intro into web design. #Website #
 https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
 Published: Sun Aug 07 18:15:09 +0000 2016
 
-Artist: Ariana Grande
-Song Name: Side To Side
-Spot Link: https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV
-Album: Dangerous Woman
+Artist: Action Bronson
+Song Name: Standing In The Rain (with Mark Ronson & Dan Auerbach)
+Spot Link: https://open.spotify.com/track/6p586xRu0OuyR1ftsTvFoz
+Album: Suicide Squad: The Album
 
-Movie Title;: Notebook
-Year Release: 2006
-Country Produced: India
-Language: Malayalam
-Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
-Actors: Roma, Mariya Roy, Parvathy, Sooraj
-IMBD Rating: 7.1
+Movie Title;: Pet
+Year Release: 2016
+Country Produced: USA, Spain
+Language: English
+Plot: A psychological thriller about a man who bumps into an old flame and subsequently becomes obsessed with her, leading him to hold her captive underneath the animal shelter where he works. ...
+Actors: Ksenia Solo, Jennette McCurdy, Dominic Monaghan, Nathan Parsons
+IMBD Rating: 6.9
 Rotten Tomatoes Rating: N/A
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/770798585/
 
 Artist: Backstreet Boys
 Song Name: I Want It That Way
 Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 Album: The Hits--Chapter One
-
-Movie Title;: Interception
-Year Release: 2009
-Country Produced: USA
-Language: English
-Plot: When a prototype weapon is stolen from a government facility a software engineer unknowingly becomes involved when he receives the key disk needed for detonation. With no help from ...
-Actors: John Will Clay, Ashley Morgan, Bret Hopkins, Buck P.B.D. Rodgers
-IMBD Rating: 2.6
-Rotten Tomatoes Rating: N/A
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/interception/
 

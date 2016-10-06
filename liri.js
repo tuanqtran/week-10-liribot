@@ -19,9 +19,10 @@ function myTweets(){
 	  			var tweetOutput = "Tweet: " + tweet.text + "\n" +
 	  				"Published: " + tweet.created_at + "\n";
 	  			// console.log(tweetOutput);
-	  			logText(tweetOutput);	
+	  			logText(tweetOutput);
   			})
   		}
+  		start();
 	});
 }
 
@@ -42,6 +43,7 @@ function chosenSpotify(userSpotInput){
 	  		// console.log(spotifyOutput);
 	  		logText(spotifyOutput);			
 	    }
+	    start();
 	});
 }
 
@@ -61,6 +63,7 @@ function chosenMovie(userMovieInput){
 	  		// console.log(movieOutput);
 	  		logText(movieOutput);
 		}
+		start();
 	});
 }
 
