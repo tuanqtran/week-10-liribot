@@ -1,0 +1,26 @@
+{
+  "name": "week-10-liribot",
+  "version": "1.0.0",
+  "description": "Week 10 LIRI Bot",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanqtran/week-10-liribot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanqtran/week-10-liribot/issues"
+  },
+  "homepage": "https://github.com/tuanqtran/week-10-liribot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^1.2.1",
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
+}
