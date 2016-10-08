@@ -1,15 +1,17 @@
+// Set variables for npm packages.
 var inquirer = require("inquirer");
-var twitter = require('twitter');
+var Twitter = require('twitter');
 var keys = require("./keys.js");
 var spotify = require('spotify');
 var request = require('request');
 var fs = require('fs'); 
-var client = new twitter(keys);
+var twitter = new Twitter(keys);
 
-
+// Tweets 20 of the user most recent tweets and calls the logText function which appends the content to a text file.
 function myTweets(){
 	var params = {screen_name: 'Tuan_QTran', count: 20};
-	client.get('statuses/user_timeline',
+	twitter.get(
+		'statuses/user_timeline',
 		params,
 		function(error, tweets, response) {
   		if (error) {
@@ -22,10 +24,12 @@ function myTweets(){
 	  			logText(tweetOutput);
   			})
   		}
+  		// Reenable the start prompt until the user exits the app.
   		start();
 	});
 }
 
+// Pastes the Artist name, song name, link and album name and calls the logText function which appends the content to a text file.
 function chosenSpotify(userSpotInput){
 	spotify.search({
 		type: 'track',
@@ -43,15 +47,17 @@ function chosenSpotify(userSpotInput){
 	  		// console.log(spotifyOutput);
 	  		logText(spotifyOutput);			
 	    }
+	    // Reenable the start prompt until the user exits the app.
 	    start();
 	});
 }
 
+// Pastes the movie data to the user and calls the logText function which appends the content to a text file.
 function chosenMovie(userMovieInput){
-	request('http://www.omdbapi.com/?t=' + userMovieInput + "&y=&i=&plot=short&tomatoes=true&r=json", function (error, response, body) {
+	request(`http://www.omdbapi.com/?t=${userMovieInput}&y=&i=&plot=short&tomatoes=true&r=json`, function (error, response, body) {
 		if (!error && response.statusCode == 200) {
 			var parseUserInput = JSON.parse(body)
-	  		var movieOutput = "Movie Title;: " + parseUserInput.Title + "\n" +
+	  		var movieOutput = "Movie Title: " + parseUserInput.Title + "\n" +
 	  			"Year Release: " + parseUserInput.Year + "\n" +
 	  			"Country Produced: " + parseUserInput.Country + "\n" +
 	  			"Language: " + parseUserInput.Language + "\n" +
@@ -63,10 +69,12 @@ function chosenMovie(userMovieInput){
 	  		// console.log(movieOutput);
 	  		logText(movieOutput);
 		}
+		// Reenable the start prompt until the user exits the app.
 		start();
 	});
 }
 
+// Access the random.txt file content and Spotify the results.
 function randomChoice(){
 	fs.readFile("random.txt", 'utf8', function(error, data) {		    
 		// If the code experiences any errors it will log the error to the console. 
@@ -79,13 +87,14 @@ function randomChoice(){
 
 	    	switch(userFirstInput){
 	    		case "spotify-this-song":
-	    		chosenSpotify(userSecondInput);	
-	    		break;
+	    			chosenSpotify(userSecondInput);
+	    			break;
 	    	}
 	    }
 	}); 		
 }
 
+// Appends all the file to log.txt
 function logText(data){
 	console.log(data);
 	fs.appendFile("./log.txt", data + "\n", function(err){
@@ -95,6 +104,7 @@ function logText(data){
 	});
 }
 
+// Start function which provides the user a series of choices.
 function start(){
 	inquirer.prompt([
 		{

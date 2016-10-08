@@ -82,3 +82,730 @@ Song Name: I Want It That Way
 Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 Album: The Hits--Chapter One
 
+Movie Title;: Notebook
+Year Release: 2006
+Country Produced: India
+Language: Malayalam
+Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
+Actors: Roma, Mariya Roy, Parvathy, Sooraj
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+
+Movie Title: ${parseUserInput.Title}
+Year Release: 2006
+Country Produced: India
+Language: Malayalam
+Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
+Actors: Roma, Mariya Roy, Parvathy, Sooraj
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Movie Title: Notebook
+Year Release: 2006
+Country Produced: India
+Language: Malayalam
+Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
+Actors: Roma, Mariya Roy, Parvathy, Sooraj
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+
+Movie Title: Notebook
+Year Release: 2006
+Country Produced: India
+Language: Malayalam
+Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
+Actors: Roma, Mariya Roy, Parvathy, Sooraj
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+
+Movie Title: Notebook
+Year Release: 2006
+Country Produced: India
+Language: Malayalam
+Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
+Actors: Roma, Mariya Roy, Parvathy, Sooraj
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+
+Movie Title: Notebook
+Year Release: 2006
+Country Produced: India
+Language: Malayalam
+Plot: School girls trio Seirra, Sreedevi and Pooja invites trouble when Sreedevi becomes pregnant from her lover Sooraj, who is a schoolmate.
+Actors: Roma, Mariya Roy, Parvathy, Sooraj
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/notebook_2006/
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: Prototypal Object-Oriented Programming using #JavaScript #Programming https://t.co/m1pvJmAEOg https://t.co/U1p92cGiR5
+Published: Fri Sep 02 16:30:16 +0000 2016
+
+Tweet: Want short and useful JavaScript tips every day? JS Tips is there for you #WebDev #coding https://t.co/gAoVmqrnQ1 https://t.co/SQSFcPma0Z
+Published: Fri Aug 26 17:59:16 +0000 2016
+
+Tweet: RT @MachinePix: Seven segment display made out of LEGOs. http://t.co/3vuBfCrTHj
+Published: Thu Sep 01 04:56:11 +0000 2016
+
+Tweet: RT @BillSourour: “Constant confusion: why I still use JavaScript function statements” by @BillSourour https://t.co/RG1RCfF4mI
+Published: Wed Aug 17 21:58:57 +0000 2016
+
+Tweet: RT @MarcusBiel: https://t.co/Ql9pPEEQbq #java #cleancode https://t.co/fzFIjs1GkK
+Published: Wed Aug 17 04:00:12 +0000 2016
+
+Tweet: RT @christianmaioli: When debugging code https://t.co/0ndIkQpT8Q
+Published: Wed Aug 17 03:56:12 +0000 2016
+
+Tweet: RT @ourfounder: Software being "Done" is like lawn being "Mowed".
+Published: Thu Sep 01 04:56:21 +0000 2016
+
+Tweet: RT @CodingLady: The @FreeCodeCamp story! It's a good one.
+How I made my first million dollars (in pro bono code) https://t.co/FktcxKbR5k
+Published: Wed Aug 17 03:55:15 +0000 2016
+
+Tweet: RT @eeportal_com: Electrical Theory – Technology, PLC Concepts and Basic Electronics - https://t.co/q3WpYzAKD0
+Published: Wed Aug 17 03:53:14 +0000 2016
+
+Tweet: RT @dekebridges: #ThursdayThoughts
+The difference between ordinary and extraordinary is that little extra.
+-Zig Ziglar https://t.co/TLXJxSM…
+Published: Sat Aug 13 02:42:20 +0000 2016
+
+Tweet: RT @JavaScriptDaily: A Comprehensive Look at jQuery Selectors: https://t.co/cMYNCJGrx2
+Published: Fri Aug 12 16:03:45 +0000 2016
+
+Tweet: Highly Recommend: Emmet cheat sheet for an more efficient #HTML and #CSS #Coding experience. https://t.co/flAWk8syGm https://t.co/XEZYzuWY5T
+Published: Mon Aug 08 18:15:00 +0000 2016
+
+Tweet: RT @mirandastweets: The ability to fully accept yourself—talents, weirdness, vulnerabilities,—is a key causeway to the experience of happin…
+Published: Mon Aug 08 16:10:17 +0000 2016
+
+Tweet: Highly Recommend: 18 Essential Plugins to Get More Out Of Sublime Text #Coding #Programming https://t.co/dBkTnITmVv https://t.co/zkKHwM3kBj
+Published: Mon Aug 08 16:30:23 +0000 2016
+
+Tweet: @GretchenManco and have not seen any use of derivatives, integrals and the like. But don't get me wrong,
+Published: Mon Aug 08 16:06:44 +0000 2016
+
+Tweet: @GretchenManco  I believe we'll apply some form of math into coding. I just wouldn't be able to accurately provide you an answer as of now.
+Published: Mon Aug 08 16:07:20 +0000 2016
+
+Tweet: @GretchenManco Oh that's great! My brother-in-law was planning to try out Epicodus within Portland.
+Published: Mon Aug 08 16:03:09 +0000 2016
+
+Tweet: @GretchenManco Ahh, Cal-3, Linear and Diff Eq. Those were the fun times lol. In regards to applying it to coding. I'm only a few weeks in,
+Published: Mon Aug 08 16:05:03 +0000 2016
+
+Tweet: RT @eeportal_com: Allen Bradley Scada System Guide https://t.co/SDDJac3ugy
+Published: Wed Aug 17 03:52:40 +0000 2016
+
+Tweet: This is so cool! Check out this amazing intro into web design. #Website #Coding
+https://t.co/4e7KCDzh4M https://t.co/HVWklARaIT
+Published: Sun Aug 07 18:15:09 +0000 2016
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Spot Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Ariana Grande
+Song Name: Side To Side
+Spot Link: https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV
+Album: Dangerous Woman
+
+Artist: Ariana Grande
+Song Name: Side To Side
+Spot Link: https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV
+Album: Dangerous Woman
+
+Artist: Ariana Grande
+Song Name: Side To Side
+Spot Link: https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV
+Album: Dangerous Woman
+
